@@ -1,4 +1,4 @@
-#Esse sistema foi criado para a atividade de Engenharia de Software de minha faculdade. o site não é oficial da PMSP, apenas foi usado de inspiração para a atividade#
+#Esse sistema foi criado para a atividade de Engenharia de Software da minha faculdade. O site não é oficial da PMSP, sendo apenas uma inspiração para a atividade.#
 
 # SistemaDeDenunciaAnonima
 Criação de uma pagina online para fazer denuncias online. 
